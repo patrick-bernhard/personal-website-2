@@ -1,1 +1,1 @@
-Sitemap: https://cosmic-gumption-f4c3bd.netlify.app/sitemap.xml
+Sitemap: https://patrickbernhard.netlify.app/sitemap.xml
