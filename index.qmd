@@ -1,11 +1,33 @@
 ---
 title: "Patrick Bernhard"
+about:
+  template: trestles
+  image: profile_photo.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:pbernhard@ucdavis.edu
+    - icon: file-pdf
+      text: CV
+      href: Bernhard_Patrick_CV.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bernhard-patrick/
+    - icon: github
+      text: Github
+      href: https://github.com/patrick-bernhard
 ---
 
-This is a Quarto website.
+Welcome! I'm a third-year PhD student studying political science at the University of California, Davis where I split my time between my position as a teaching assistant and research on international security and research methods.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Davis \| Davis, CA PhD in Political Science \| Sept 2021 - June 2026 (Expected)
+
+Carnegie Mellon University \| Pittsburgh, PA B.S in International Relations & Politics \| 2020
+
+## Publications
+
+"Hilbert, M., Thakur, A., Flores, P. M., Zhang, X., Bhan, J. Y., **Bernhard, P.**, Ji, F. (in press). 8% - 10% of algorithmic recommendations are 'bad', but... an exploratory risk-utility meta-analysis and its regulatory implications. *International Journal of Information Management.*
+
+Lewis, D. E., **Bernhard, P.**, & You, E. (2018). President Trump as manager: Reflections on the first year. *Presidential Studies Quarterly*, 48(3), 480-501.
